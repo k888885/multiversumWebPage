@@ -1,0 +1,9 @@
+:root {
+  --mv-red: #c72026;
+  --mv-dark: #222;
+}
+.navbar { background: var(--mv-red); }
+.navbar a { color: #fff !important; font-weight: 500; }
+section { padding: 4rem 0; }
+.bg-dark { background: var(--mv-dark) !important; }
+.text-red { color: var(--mv-red); }
